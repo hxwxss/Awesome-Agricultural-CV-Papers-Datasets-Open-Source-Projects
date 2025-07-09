@@ -3,9 +3,9 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 
 
 ```
-This is a living document — we welcome contributions from the community! Reach out via [your-email@domain.com] or open a GitHub Issue to discuss ideas.
+This is a living document — we welcome contributions from the community! Reach out via [hanxuanwxss at gmail dot com] or open a GitHub Issue to discuss ideas.
 ```
 ## 🤝 How to Contribute  
 - Submit a pull request to add new papers/projects  
 - Report issues or suggest improvements via GitHub Issues  
-- Contact me directly: [your-email@domain.com]  
+- Contact me directly: hanxuanwxss at gmail dot com  
