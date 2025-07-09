@@ -6,9 +6,19 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 [[paper]](https://arxiv.org/pdf/2503.04475)
 [[code]](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)
 
+**Neural Hierarchical Decomposition for Single Image Plant Modeling (CVPR 2025)**
+[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Neural_Hierarchical_Decomposition_for_Single_Image_Plant_Modeling_CVPR_2025_paper.pdf)
+[[code]]()
+
+**Open-Canopy: Towards Very High Resolution Forest Monitoring**
+[[paper]](https://arxiv.org/pdf/2407.09392)
+[[code]]()
+
 ****
 [[paper]]()
 [[code]]()
+
+
 
 # Animal
 **Reconstructing Animals and the Wild(CVPR 2025)**
@@ -28,10 +38,11 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 [[code]](https://github.com/Raojiyong/PPAP)
 
 
+
+## 🤝 How to Contribute  
 ```
 This is a living document — we welcome contributions from the community! Reach out via [hanxuanwxss at gmail dot com] or open a GitHub Issue to discuss ideas.
 ```
-## 🤝 How to Contribute  
 - Submit a pull request to add new papers/projects  
 - Report issues or suggest improvements via GitHub Issues  
 - Contact me directly: hanxuanwxss at gmail dot com  
