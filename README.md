@@ -10,13 +10,11 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Neural_Hierarchical_Decomposition_for_Single_Image_Plant_Modeling_CVPR_2025_paper.pdf)
 [[code]]()
 
-**Open-Canopy: Towards Very High Resolution Forest Monitoring**
+**Open-Canopy: Towards Very High Resolution Forest Monitoring (CVPR 2025)**
 [[paper]](https://arxiv.org/pdf/2407.09392)
 [[code]]()
 
 ****
-[[paper]]()
-[[code]]()
 
 
 
