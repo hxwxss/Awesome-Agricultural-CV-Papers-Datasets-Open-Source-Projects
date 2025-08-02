@@ -19,30 +19,22 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 
 
 # Animal
-**Reconstructing Animals and the Wild(CVPR 2025)**
-[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kulits_Reconstructing_Animals_and_the_Wild_CVPR_2025_paper.pdf)
-[[code]](https://github.com/kulits/RAW)
+* **Reconstructing Animals and the Wild(CVPR 2025)**
+[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kulits_Reconstructing_Animals_and_the_Wild_CVPR_2025_paper.pdf) | [[code]](https://github.com/kulits/RAW)
 
-**AniMo: Species-Aware Model for Text-Driven Animal Motion Generation (CVPR 2025)**
-[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_AniMo_Species-Aware_Model_for_Text-Driven_Animal_Motion_Generation_CVPR_2025_paper.pdf)
-[[code]](https://github.com/WandererXX/AniMo?tab=readme-ov-file)
+* **AniMo: Species-Aware Model for Text-Driven Animal Motion Generation (CVPR 2025)**
+[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_AniMo_Species-Aware_Model_for_Text-Driven_Animal_Motion_Generation_CVPR_2025_paper.pdf) | [[code]](https://github.com/WandererXX/AniMo?tab=readme-ov-file)
 
-**AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer(CVPR 2025)**
-[[paper]](https://arxiv.org/pdf/2412.00837)
-[[code]](https://github.com/luoxue-star/AniMer)
+* **AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer(CVPR 2025)**
+[[paper]](https://arxiv.org/pdf/2412.00837) | [[code]](https://github.com/luoxue-star/AniMer)
 
-**Probabilistic Prompt Distribution Learning for Animal Pose Estimation(CVPR 2025)**
-[[paper]](https://arxiv.org/pdf/2503.16120)
-[[code]](https://github.com/Raojiyong/PPAP)
+* **Probabilistic Prompt Distribution Learning for Animal Pose Estimation(CVPR 2025)**
+[[paper]](https://arxiv.org/pdf/2503.16120)| [[code]](https://github.com/Raojiyong/PPAP)
 
-**AnimalClue: Recognizing Animals by their Traces(ICCV2025 Highlight)** [[paper]](https://arxiv.org/abs/2507.20240)
-[[code&&dataset]](https://github.com/dahlian00/AnimalClue)
 
-*A comprehensive benchmark for animal recognition from diverse traces like footprints and feces.*
-
-*   **AnimalClue: Recognizing Animals by their Traces**  
+* **AnimalClue: Recognizing Animals by their Traces**  
     *A comprehensive benchmark for animal recognition from footprints, feces, and other traces.*  
-    [[paper]]() | [[code & dataset]]()
+    [[paper]](https://arxiv.org/abs/2507.20240) | [[code & dataset]](https://github.com/dahlian00/AnimalClue)
 
 
 
