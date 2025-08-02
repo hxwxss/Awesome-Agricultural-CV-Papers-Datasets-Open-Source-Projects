@@ -36,7 +36,9 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 [[code]](https://github.com/Raojiyong/PPAP)
 
 **AnimalClue: Recognizing Animals by their Traces(ICCV2025 Highlight)** 
+
 *A comprehensive benchmark for animal recognition from diverse traces like footprints and feces.*
+
 [[paper]](https://arxiv.org/abs/2507.20240)
 [[code&&dataset]](https://github.com/dahlian00/AnimalClue)
 
