@@ -40,6 +40,10 @@ A curated list of cutting-edge computer vision techniques applied to agriculture
 
 *A comprehensive benchmark for animal recognition from diverse traces like footprints and feces.*
 
+*   **AnimalClue: Recognizing Animals by their Traces**  
+    *A comprehensive benchmark for animal recognition from footprints, feces, and other traces.*  
+    [[paper]]() | [[code & dataset]]()
+
 
 
 
